@@ -8,3 +8,5 @@ This is the public repository for all unrestricted content, such as the document
 * Check the latest demos here: https://github.com/FreetimeStudio/Adventure-Kit-Public/releases/latest
 * Documentation can be found here: https://github.com/FreetimeStudio/Adventure-Kit-Public/wiki
 * API Documentation: http://freetimestudio.github.io/Adventure-Kit/api/index.html
+
+Feel free to leave feedback, ask questions or report bugs in the [issues](https://github.com/FreetimeStudio/Adventure-Kit-Public/issues) section!
